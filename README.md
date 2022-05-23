@@ -1,6 +1,6 @@
 # autoPavarottiSting.py (selenium)
 
-**Что делает:** Заходит на ya.ru и посыласет запрос на выдачу по "pavarotti sting", дожидается и закрывает браузер.  
+**Что делает:** Заходит на ya.ru, посыласет запрос "pavarotti sting", дожидается и закрывает браузер.  
 
 **Исходный код:** [autoPavarottiSting.py](https://github.com/igornbutin/TestLab-portfolio/blob/main/autoPavarottiSting.py)  
 
