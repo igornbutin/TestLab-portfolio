@@ -1,5 +1,6 @@
 # что делает: заходит на ya.ru, посыласет запрос "pavarotti sting", дожидается и закрывает браузер
 # как улучшить: заменить xpath на более надежные id
+# python 3.10.4
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
